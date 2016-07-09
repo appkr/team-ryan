@@ -17,7 +17,7 @@
 ---|---|---
 06/12|(1장~2장) [appkr](0612/appkr.md), [drunkencoding](0612/drunkencoding.md)|[appkr](0612/forum_planning.pdf)
 06/26|(3장~4장) yihoyoung, jaeryong|appkr
-07/10|(5장~6장) drunkencoding, moka|미정
+07/10|(5장~6장) [drunkencoding](0710/drunkencoding.md), moka|미정
 07/24|(7장~8장) yihoyoung, jaeryong|미정
 08/07|(9장~10장) drunkencoding, moka|미정
 08/21|(11장~12장) yihoyoung, jaeryong|미정
