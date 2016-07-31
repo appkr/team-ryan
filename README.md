@@ -10,6 +10,8 @@
 -   06/12 [회의록](0612/readme.md)
 -   06/16 [회의록](0616/readme.md)
 -   06/26 [회의록](0626/readme.md)
+-   07/10 [회의록](0710/readme.md)
+-   07/24 [회의록](0726/readme.md)
 
 ### 발표 순서
 
@@ -18,9 +20,9 @@
 06/12|(1장~2장) [appkr](0612/appkr.md), [drunkencoding](0612/drunkencoding.md)|[appkr](0612/forum_planning.pdf)
 06/26|(3장~4장) yihoyoung, jaeryong|appkr
 07/10|(5장~6장) [drunkencoding](0710/drunkencoding.md), [moka](0710/moka.md)|yihoyoung
-07/24|(7장~8장) yihoyoung, jaeryong|미정
-08/07|(9장~10장) drunkencoding, moka|미정
-08/21|(11장~12장) yihoyoung, jaeryong|미정
+07/24|(7장) yihoyoung, jaeryong|moka
+08/07|(8장~10장) drunkencoding, moka|drunkencoding
+08/21|(11장~12장) yihoyoung, jaeryong|jaeryong
 
 <small>\* 몇 번 더 하고, 덜 할 수 있습니다. 역량이나 시간적인 여유 봐서 업무량을 조율할테니 이해해 주세요.</small>
 
